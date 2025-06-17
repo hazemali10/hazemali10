@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/ARM%20Assembly-23304E?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Assembly"/>
   <img src="https://img.shields.io/badge/MIPS%20Assembly-0A0A0A?style=for-the-badge&logoColor=white" alt="MIPS Assembly"/>
- <img src="https://your-image-host.com/vhdl-icon.png" width="20" /> VHDL 
+ <img src="https://your-image-host.com/vhdl-icon.png" width="20" /> VHDL (Proficient)
 
 </p>
 
