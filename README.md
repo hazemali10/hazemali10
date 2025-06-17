@@ -35,4 +35,3 @@ Feel free to reach out if you're working on cool projects or just want to connec
 
 - 💼 [LinkedIn] www.linkedin.com/in/hazem-ali-005774279
 - 📧 Email: Hazemali.hha@gmail.com  
-- 🌍 [GitHub](https://github.com/yourusername)
