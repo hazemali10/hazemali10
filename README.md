@@ -30,7 +30,7 @@ I'm constantly learning, experimenting, and contributing to projects that challe
 
 Feel free to reach out if you're working on cool projects or just want to connect:
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hazem-ali-005774279/))  
+- 💼 [LinkedIn] https://linkedin.com/in/your-profile](https://www.linkedin.com/in/hazem-ali-005774279/) 
 - 📧 Email: Hazemali.hha@gmail.com  
 - 🌍 [GitHub](https://github.com/yourusername)
 
