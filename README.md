@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/ARM%20Assembly-23304E?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Assembly"/>
   <img src="https://img.shields.io/badge/MIPS%20Assembly-0A0A0A?style=for-the-badge&logoColor=white" alt="MIPS Assembly"/>
   <img src="https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logoColor=white" alt="VHDL"/>
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 
 </p>
 
@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Keil%20uVision-0081CB?style=for-the-badge&logo=texas-instruments&logoColor=white" alt="Keil"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
 
 </p>
 
