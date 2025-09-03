@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/MIPS%20Assembly-0A0A0A?style=for-the-badge&logoColor=white" alt="MIPS Assembly"/>
   <img src="https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge&logoColor=white" alt="VHDL"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
 
 
 </p>
